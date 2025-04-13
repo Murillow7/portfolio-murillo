@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Fira Code', monospace;
+    background-color: #0a0a0a;
+    color: #c5c6c7;
+    overflow-x: hidden;
+    position: relative;
+  }
+  
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
+  nav {
+    background-color: #0b0c10;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #45a29e;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  nav h1 {
+    color: #66fcf1;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #c5c6c7;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #66fcf1;
+  }
+  
+  header {
+    padding: 4rem 2rem;
+    text-align: center;
+    color: #66fcf1;
+  }
+  
+  header h2 {
+    margin-top: 1rem;
+    color: #c5c6c7;
+    font-weight: 400;
+  }
+  
+  .container {
+    padding: 4rem 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  section {
+    margin-bottom: 4rem;
+  }
+  
+  h3 {
+    color: #45a29e;
+    margin-bottom: 1rem;
+    border-left: 4px solid #66fcf1;
+    padding-left: 1rem;
+  }
+  
+  ul li {
+    margin: 1rem 0;
+  }
+  
+  a {
+    color: #66fcf1;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: #0b0c10;
+    color: #aaa;
+  }
+  
+  .terminal {
+    background: #000;
+    padding: 2rem;
+    color: #00ff00;
+    font-family: 'Fira Code', monospace;
+    border-radius: 10px;
+    max-width: 90%;
+    margin: 2rem auto;
+    box-shadow: 0 0 10px #00ff00;
+    white-space: pre-line;
+  }
+  
+  #map {
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+    border: 2px solid #66fcf1;
+    border-radius: 10px;
+  }
+  
+  #map img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+  }
+  
+  .project-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+  .project-links a {
+    padding: 1rem 2rem;
+    border: 2px solid #66fcf1;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #66fcf1;
+    background-color: #0b0c10;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .project-links a:hover {
+    background-color: #66fcf1;
+    color: #0a0a0a;
+  }
+ 
+  

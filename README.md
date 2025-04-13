@@ -6,8 +6,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos e experimentos que une
 
 Sou estudante de Tecnologia da Informação na PUC-PR e apaixonado por segurança digital. Também me dedico à área de **Cloud Computing** e **IA aplicada**, com foco em soluções práticas e inovadoras. Em paralelo, estou construindo dois projetos principais:
 
-- 🚀 **NOSSO PROJETO HM** – Coleta e análise de logs com IA para detectar anomalias.
-- 🤖 **HM Assistant** – Um assistente pessoal inteligente com foco em organização e produtividade.
+- 🚀 **PROJETO 1** – Coleta e análise de logs com IA para detectar anomalias.
+- 🤖 **PROJETO 2** – Um assistente pessoal inteligente com foco em organização e produtividade.
 
 ## 🌐 Acesse
 

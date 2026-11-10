@@ -1,13 +1,9 @@
 # 💻 Portfólio | Murillo Moraes
 
-Bem-vindo ao meu portfólio! Aqui você encontra projetos e experimentos que unem **Cybersegurança**, **Cloud** e **Inteligência Artificial**, com uma pegada visual inspirada no universo hacker.
+Bem-vindo! 
 
-## 🧠 Sobre mim
-
-Sou estudante de Tecnologia da Informação na PUC-PR e apaixonado por segurança digital. Também me dedico à área de **Cloud Computing** e **IA aplicada**, com foco em soluções práticas e inovadoras. Em paralelo, estou construindo dois projetos principais:
-
-- 🚀 **PROJETO 1** – Coleta e análise de logs com IA para detectar anomalias.
-- 🤖 **PROJETO 2** – Um assistente pessoal inteligente com foco em organização e produtividade.
+- 🚀 **PROJETO 1** – .
+- 🤖 **PROJETO 2** – .
 
 ## 🌐 Acesse
 
@@ -46,5 +42,4 @@ Veja o site em funcionamento:
 
 ---
 
-> 💬 *"Não basta proteger sistemas, é preciso entender como eles pensam."*  
-> — Murillo Moraes
+
